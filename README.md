@@ -1,2 +1,2 @@
 # example_interfaces
-example robotic control and robot
+example robot control
